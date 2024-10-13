@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attributes</title>
+</head>
+<body>
+    <!--<a href> tag is use to provide a link --> 
+        <p>HTML links are defined with the a tag. The link address is specified in the href attribute:</p>  
+        <a href="https://www.google.co.in/">Google</a>
+
+        <!--<img src> is use for image tag-->
+        <p>The img  tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed
+            you can adjust its height and width
+        </p>
+        <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_640.jpg" height="400">
+</body>
+</html>
